@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Personal expenses</title>
+</head>
+<body>
+<h1>Table of expenses</h1>
+	<table border="10 px" style="width = 100%">
+		<thead>
+			<tr>
+				<th scope="col">Name</th>
+				<th scope="col">Detail</th>
+				<th scope="col">Ammount</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Food for the cat</td>	
+				<td>8 kg</td>
+				<td>$150</td>
+			</tr>
+			<tr>
+				<td>Food for the human</td>
+				<td>Sad rice again</td>
+				<td>$15</td>
+			</tr>
+			<tr>
+				<td>Eggs</td>
+				<td>15 Eggs for food</td>
+				<td>$20</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
