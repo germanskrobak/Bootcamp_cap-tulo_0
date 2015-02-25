@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+    <div>
+        <header class="cabecera_principal"><strong>HEADER</strong></header>
+    </div>
+    <div>
+        <nav>NAVEGATION</nav>
+    </div>
+    <div>
+        <section>
+            <header class="Cabecera_Seccion">HEADER</header>
+            <article>ARTICLE</article>
+            <footer class="Footer_art">FOOTER</footer>
+        </section>
+        <aside>ASIDE</aside>
+    </div>
+    <div class="pie_de_pagina">
+        <footer>FOOTER</footer>
+    </div>
+    </body>
+</html>
