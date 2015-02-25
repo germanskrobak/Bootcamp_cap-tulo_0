@@ -1,0 +1,98 @@
+/*css para newIndex.html*/
+*{
+	font-size: 14px;
+	font-family: arial;
+}
+body{
+	background-color: #141411;
+}
+.cabecera_principal{
+	height: 30px;
+	float: top;
+	color:#DAD8CC;
+	text-align: center;
+	background-color: #919189;
+	border-radius: 5px;
+}
+
+div{
+	margin: 10px;
+	border-radius: 5px;
+}
+
+nav{
+	float: left;
+	
+	width: 9%;
+
+	height: 120px;
+
+
+	color: white;
+	text-align: center;
+	border-radius: 5px;
+
+	background-color: #919189;
+}
+section{
+	float: left;
+
+	
+	width: 80%;
+
+	margin-left: 1%;
+	margin-right: 1%;
+
+	margin-bottom: 1%;
+
+	color:#DAD8CC;
+	text-align: center;
+	border-radius: 5px; 
+	background-color: #919189;
+
+}
+
+aside{
+	float: left;
+	width: 9%;
+	text-align: center;
+	height: 120px;
+	color:white;
+	margin-bottom: 1%;
+	background-color: #919189;
+	border-radius: 5px;
+}
+
+.Cabecera_Seccion{
+	padding: 1%;
+	background-color: #919159;
+	color: green;
+	border-radius: 5px;
+}
+
+article{
+	float: center;
+	padding: 10px;
+	background-color: #DAD8CC;
+	color:black;
+	border-radius: 5px;
+}
+
+.Footer_art{
+
+	margin:10px;
+	color:black;
+	border-radius: 5px;
+}
+
+.pie_de_pagina{
+	float:right;
+	margin-top:1%;
+	margin-left: 10%;
+	width: 99%;
+	text-align: center;
+	
+	border-radius: 5px;
+	
+	background-color: lime;
+}
