@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+    <h1>Estructura Basica</h1>
+        <header id="cabecera"><strong>SECTION</strong></header>
+        <section id="secc1">
+            <nav>NAVEGATION</nav>
+            <section id="secc2">
+                <header id="Cabecera_Seccion">HEADER</header>
+                <article>ARTICLE</article>
+                <footer id="Footer_art">FOOTER</footer>
+            </section>
+            <aside>ASIDE</aside>
+        </section>
+        <footer id="final">FOOTER</footer>
+    </body>
+</html>
